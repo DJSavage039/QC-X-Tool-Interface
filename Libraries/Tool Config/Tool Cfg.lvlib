@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Accessors" Type="Folder">
 		<Item Name="Get Config Cluster Version.vi" Type="VI" URL="../Get Config Cluster Version.vi"/>
+		<Item Name="Get Firmware Version.vi" Type="VI" URL="../Get Firmware Version.vi"/>
 		<Item Name="Get Op Cfg.vi" Type="VI" URL="../Get Op Cfg.vi"/>
 		<Item Name="Get Product Name.vi" Type="VI" URL="../Get Product Name.vi"/>
 		<Item Name="Get Tool Config Cluster Version.vi" Type="VI" URL="../Get Tool Config Cluster Version.vi"/>
@@ -93,6 +94,7 @@
 		<Item Name="Set Tool Type.vi" Type="VI" URL="../Set Tool Type.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="_Tool Cfg Return Parameters Cluster--typedef.ctl" Type="VI" URL="../_Tool Cfg Return Parameters Cluster--typedef.ctl"/>
 		<Item Name="_Tool Operation Config Cluster--typedef.ctl" Type="VI" URL="../_Tool Operation Config Cluster--typedef.ctl"/>
 		<Item Name="_Verification Blk Cluster--typedef.ctl" Type="VI" URL="../_Verification Blk Cluster--typedef.ctl"/>
 	</Item>

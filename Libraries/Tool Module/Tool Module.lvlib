@@ -197,6 +197,7 @@
 			<Item Name="Check SW Limits.vi" Type="VI" URL="../Check SW Limits.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
+			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
 			<Item Name="Configure Probe.vi" Type="VI" URL="../Support/Configure Probe.vi"/>
 			<Item Name="Init Config Data.vi" Type="VI" URL="../Support/Init Config Data.vi"/>
 			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
