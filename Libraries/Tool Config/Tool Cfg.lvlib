@@ -77,9 +77,11 @@
 			<Item Name="_Sensor Block Cluster--typedef.ctl" Type="VI" URL="../_Sensor Block Cluster--typedef.ctl"/>
 			<Item Name="_SensorConfigParams Cluster--typedef.ctl" Type="VI" URL="../_SensorConfigParams Cluster--typedef.ctl"/>
 			<Item Name="_Tool Block Cluster--typedef.ctl" Type="VI" URL="../_Tool Block Cluster--typedef.ctl"/>
+			<Item Name="_Tool Block Cluster_v3--typedef.ctl" Type="VI" URL="../_Tool Block Cluster_v3--typedef.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Convert Cfg Cluster 1 to 2.vi" Type="VI" URL="../Convert Cfg Cluster 1 to 2.vi"/>
+			<Item Name="Convert Cfg Cluster 2 to 3.vi" Type="VI" URL="../Convert Cfg Cluster 2 to 3.vi"/>
 			<Item Name="Replace Sensor Parameters.vi" Type="VI" URL="../Replace Sensor Parameters.vi"/>
 		</Item>
 		<Item Name="Verification Block" Type="Folder">
@@ -102,7 +104,6 @@
 		<Item Name="Write FPGA Setup Params to File.vi" Type="VI" URL="../Write FPGA Setup Params to File.vi"/>
 		<Item Name="Write Tool Cfg to File.vi" Type="VI" URL="../Write Tool Cfg to File.vi"/>
 	</Item>
-	<Item Name="_Tool Block Cluster_v3--typedef.ctl" Type="VI" URL="../_Tool Block Cluster_v3--typedef.ctl"/>
 	<Item Name="ConfigGLOB.vi" Type="VI" URL="../ConfigGLOB.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
