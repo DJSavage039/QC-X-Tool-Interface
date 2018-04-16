@@ -102,6 +102,7 @@
 		<Item Name="Write FPGA Setup Params to File.vi" Type="VI" URL="../Write FPGA Setup Params to File.vi"/>
 		<Item Name="Write Tool Cfg to File.vi" Type="VI" URL="../Write Tool Cfg to File.vi"/>
 	</Item>
+	<Item Name="_Tool Block Cluster_v3--typedef.ctl" Type="VI" URL="../_Tool Block Cluster_v3--typedef.ctl"/>
 	<Item Name="ConfigGLOB.vi" Type="VI" URL="../ConfigGLOB.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
