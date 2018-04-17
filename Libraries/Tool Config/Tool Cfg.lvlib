@@ -16,6 +16,7 @@
 		<Item Name="Set Config Cluster Version.vi" Type="VI" URL="../Set Config Cluster Version.vi"/>
 		<Item Name="Set Firmware Version.vi" Type="VI" URL="../Set Firmware Version.vi"/>
 		<Item Name="Set Op Cfg.vi" Type="VI" URL="../Set Op Cfg.vi"/>
+		<Item Name="Set Product Name.vi" Type="VI" URL="../Set Product Name.vi"/>
 		<Item Name="Set Tool SN.vi" Type="VI" URL="../Set Tool SN.vi"/>
 	</Item>
 	<Item Name="Tool Cfg Block" Type="Folder">
