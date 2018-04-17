@@ -65,6 +65,7 @@
 			<Item Name="Get Encoder Parameters.vi" Type="VI" URL="../Get Encoder Parameters.vi"/>
 			<Item Name="Get Min-Max Encoder Limits.vi" Type="VI" URL="../Get Min-Max Encoder Limits.vi"/>
 			<Item Name="Get Start Delay.vi" Type="VI" URL="../Get Start Delay.vi"/>
+			<Item Name="Get Tool Face Ref.vi" Type="VI" URL="../Get Tool Face Ref.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="_Configuration Cluster_v1--typedef.ctl" Type="VI" URL="../_Configuration Cluster_v1--typedef.ctl"/>
