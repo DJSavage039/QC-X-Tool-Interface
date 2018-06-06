@@ -53,6 +53,7 @@
 			<Item Name="_Move(A) Cmd Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Move(A) Cmd Params Cluster--typedef.ctl"/>
 			<Item Name="_Move(R) Cmd Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Move(R) Cmd Params Cluster--typedef.ctl"/>
 			<Item Name="_Read-Write File Params cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Read-Write File Params cluster--typedef.ctl"/>
+			<Item Name="_Temperature Threshold Arrays--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Temperature Threshold Arrays--typedef.ctl"/>
 			<Item Name="Message Cluster.ctl" Type="VI" URL="../Tool Typedefs/Message Cluster.ctl"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">

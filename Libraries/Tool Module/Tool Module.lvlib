@@ -46,6 +46,7 @@
 				<Item Name="Set Event Logger Argument--cluster.ctl" Type="VI" URL="../Set Event Logger Argument--cluster.ctl"/>
 				<Item Name="Write to File Argument--cluster.ctl" Type="VI" URL="../Write to File Argument--cluster.ctl"/>
 				<Item Name="Read from File Argument--cluster.ctl" Type="VI" URL="../Read from File Argument--cluster.ctl"/>
+				<Item Name="Get Device Temperature Argument--cluster.ctl" Type="VI" URL="../Get Device Temperature Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -55,6 +56,7 @@
 				<Item Name="Trigger Argument--cluster.ctl" Type="VI" URL="../Trigger Argument--cluster.ctl"/>
 				<Item Name="Connected Argument--cluster.ctl" Type="VI" URL="../Connected Argument--cluster.ctl"/>
 				<Item Name="Read from File Rtn Argument--cluster.ctl" Type="VI" URL="../Read from File Rtn Argument--cluster.ctl"/>
+				<Item Name="Device Temperature Argument--cluster.ctl" Type="VI" URL="../Device Temperature Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -86,6 +88,7 @@
 			<Item Name="Set Event Logger.vi" Type="VI" URL="../Set Event Logger.vi"/>
 			<Item Name="Write to File.vi" Type="VI" URL="../Write to File.vi"/>
 			<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
+			<Item Name="Get Device Temperature.vi" Type="VI" URL="../Get Device Temperature.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -106,6 +109,7 @@
 		<Item Name="Trigger.vi" Type="VI" URL="../Trigger.vi"/>
 		<Item Name="Connected.vi" Type="VI" URL="../Connected.vi"/>
 		<Item Name="Read from File Rtn.vi" Type="VI" URL="../Read from File Rtn.vi"/>
+		<Item Name="Device Temperature.vi" Type="VI" URL="../Device Temperature.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -223,12 +227,14 @@
 		<Item Name="Compute Sample Length 2.vi" Type="VI" URL="../Support/Compute Sample Length 2.vi"/>
 		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
+		<Item Name="Get Device Temps.vi" Type="VI" URL="../Support/Get Device Temps.vi"/>
 		<Item Name="Motion Status Reader.vi" Type="VI" URL="../Motion Status Reader.vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 		<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
+		<Item Name="Update Device emperature.vi" Type="VI" URL="../Support/Update Device emperature.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -237,4 +243,5 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Set Mtr Ctrl Reg Argument--cluster.ctl" Type="VI" URL="../Set Mtr Ctrl Reg Argument--cluster.ctl"/>
+	<Item Name="Set Temp Thold Arrays.vi" Type="VI" URL="../Support/Set Temp Thold Arrays.vi"/>
 </Library>
