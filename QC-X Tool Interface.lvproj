@@ -131,6 +131,7 @@
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
 			</Item>
+			<Item Name="_Temperature All Arrays--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Temperature All Arrays--typedef.ctl"/>
 			<Item Name="Boolean to Text.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Boolean to Text.vi"/>
 			<Item Name="EventBuffer.lvclass" Type="LVClass" URL="../../Event Logger Library/Event Buffer/EventBuffer.lvclass"/>
 			<Item Name="EventLog.lvclass" Type="LVClass" URL="../../Event Logger Library/Event Log/EventLog.lvclass"/>
