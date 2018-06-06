@@ -46,7 +46,6 @@
 				<Item Name="Set Event Logger Argument--cluster.ctl" Type="VI" URL="../Set Event Logger Argument--cluster.ctl"/>
 				<Item Name="Write to File Argument--cluster.ctl" Type="VI" URL="../Write to File Argument--cluster.ctl"/>
 				<Item Name="Read from File Argument--cluster.ctl" Type="VI" URL="../Read from File Argument--cluster.ctl"/>
-				<Item Name="Get Device Temperature Argument--cluster.ctl" Type="VI" URL="../Get Device Temperature Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -88,7 +87,6 @@
 			<Item Name="Set Event Logger.vi" Type="VI" URL="../Set Event Logger.vi"/>
 			<Item Name="Write to File.vi" Type="VI" URL="../Write to File.vi"/>
 			<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
-			<Item Name="Get Device Temperature.vi" Type="VI" URL="../Get Device Temperature.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
