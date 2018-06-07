@@ -16,9 +16,6 @@
 				<Item Name="Stop Argument--cluster.ctl" Type="VI" URL="../Stop Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
-				<Item Name="Set OpCfg Argument--cluster.ctl" Type="VI" URL="../Set OpCfg Argument--cluster.ctl"/>
-				<Item Name="Get Op Cfg Argument--cluster.ctl" Type="VI" URL="../Get Op Cfg Argument--cluster.ctl"/>
-				<Item Name="Get Op Cfg (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Op Cfg (Reply Payload)--cluster.ctl"/>
 				<Item Name="Test Trig 2 Argument--cluster.ctl" Type="VI" URL="../Test Trig 2 Argument--cluster.ctl"/>
 				<Item Name="GOTO Argument--cluster.ctl" Type="VI" URL="../GOTO Argument--cluster.ctl"/>
 				<Item Name="Start Inspect Argument--cluster.ctl" Type="VI" URL="../Start Inspect Argument--cluster.ctl"/>
@@ -65,8 +62,6 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
-			<Item Name="Get Op Cfg.vi" Type="VI" URL="../Get Op Cfg.vi"/>
-			<Item Name="Set OpCfg.vi" Type="VI" URL="../Set OpCfg.vi"/>
 			<Item Name="Start Inspect.vi" Type="VI" URL="../Start Inspect.vi"/>
 			<Item Name="Start Data Monitor.vi" Type="VI" URL="../Start Data Monitor.vi"/>
 			<Item Name="Test Trig 2.vi" Type="VI" URL="../Test Trig 2.vi"/>
@@ -161,12 +156,10 @@
 		</Item>
 		<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
 		<Item Name="API_Get All Inspect Data.vi" Type="VI" URL="../API_Get All Inspect Data.vi"/>
-		<Item Name="API_Get Operational Configuration.vi" Type="VI" URL="../API_Get Operational Configuration.vi"/>
 		<Item Name="API_Get Sample Data.vi" Type="VI" URL="../API_Get Sample Data.vi"/>
 		<Item Name="API_Goto Cleaning Position.vi" Type="VI" URL="../API_Goto Cleaning Position.vi"/>
 		<Item Name="API_GOTO.vi" Type="VI" URL="../API_GOTO.vi"/>
 		<Item Name="API_Init Home.vi" Type="VI" URL="../API_Init Home.vi"/>
-		<Item Name="API_Set Operational Configuration.vi" Type="VI" URL="../API_Set Operational Configuration.vi"/>
 		<Item Name="API_Start Inspecting.vi" Type="VI" URL="../API_Start Inspecting.vi"/>
 		<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
 		<Item Name="API_Stop Inspecting.vi" Type="VI" URL="../API_Stop Inspecting.vi"/>
