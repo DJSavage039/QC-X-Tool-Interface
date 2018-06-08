@@ -42,6 +42,8 @@
 				<Item Name="Write to File Argument--cluster.ctl" Type="VI" URL="../Write to File Argument--cluster.ctl"/>
 				<Item Name="Read from File Argument--cluster.ctl" Type="VI" URL="../Read from File Argument--cluster.ctl"/>
 				<Item Name="Set Device Temp Thresholds Argument--cluster.ctl" Type="VI" URL="../Set Device Temp Thresholds Argument--cluster.ctl"/>
+				<Item Name="Get Cycle Count Argument--cluster.ctl" Type="VI" URL="../Get Cycle Count Argument--cluster.ctl"/>
+				<Item Name="Get Cycle Count (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Cycle Count (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -81,6 +83,7 @@
 			<Item Name="Write to File.vi" Type="VI" URL="../Write to File.vi"/>
 			<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
 			<Item Name="Set Device Temp Thresholds.vi" Type="VI" URL="../Set Device Temp Thresholds.vi"/>
+			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -198,6 +201,7 @@
 			<Item Name="Tool Connect.vi" Type="VI" URL="../Support/Tool Connect.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
+			<Item Name="_Cycle Count File Cluster--typedef.ctl" Type="VI" URL="../Support/_Cycle Count File Cluster--typedef.ctl"/>
 			<Item Name="_Data Notifiers Cluster--typedef.ctl" Type="VI" URL="../Support/_Data Notifiers Cluster--typedef.ctl"/>
 			<Item Name="_GoTo Cmd Typedef--enum.ctl" Type="VI" URL="../Support/_GoTo Cmd Typedef--enum.ctl"/>
 			<Item Name="_Inspection Limits cluster--typedef.ctl" Type="VI" URL="../Support/_Inspection Limits cluster--typedef.ctl"/>
