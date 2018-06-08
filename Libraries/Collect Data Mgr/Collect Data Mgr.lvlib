@@ -86,6 +86,5 @@
 	<Item Name="Data Collect Parameters typedef--cluster.ctl" Type="VI" URL="../Data Collect Parameters typedef--cluster.ctl"/>
 	<Item Name="CD_MGR Run.vi" Type="VI" URL="../CD_MGR Run.vi"/>
 	<Item Name="Setup Start Collect.vi" Type="VI" URL="../Setup Start Collect.vi"/>
-	<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Init Max Size Data Array.vi"/>
 	<Item Name="Parse CD Notifier Data V2.vi" Type="VI" URL="../Parse CD Notifier Data V2.vi"/>
 </Library>

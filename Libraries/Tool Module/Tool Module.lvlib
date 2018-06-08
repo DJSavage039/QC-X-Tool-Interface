@@ -221,6 +221,7 @@
 		<Item Name="Compute Sample Length 2.vi" Type="VI" URL="../Support/Compute Sample Length 2.vi"/>
 		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
+		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
 		<Item Name="Motion Status Reader.vi" Type="VI" URL="../Motion Status Reader.vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
