@@ -38,6 +38,7 @@
 			<Item Name="_ACQ Setup Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_ACQ Setup Params Cluster--typedef.ctl"/>
 			<Item Name="_Collect Data Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Collect Data Params Cluster--typedef.ctl"/>
 			<Item Name="_Data Stream Fmt Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Data Stream Fmt Params Cluster--typedef.ctl"/>
+			<Item Name="_File Read-Write Descriptor Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_File Read-Write Descriptor Cluster--typedef.ctl"/>
 			<Item Name="_FPGA Laser Config Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_FPGA Laser Config Cluster--typedef.ctl"/>
 			<Item Name="_FPGA Peak Proc Cfg Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_FPGA Peak Proc Cfg Cluster--typedef.ctl"/>
 			<Item Name="_FPGA Setup Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_FPGA Setup Params Cluster--typedef.ctl"/>
@@ -53,6 +54,7 @@
 			<Item Name="_Move(A) Cmd Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Move(A) Cmd Params Cluster--typedef.ctl"/>
 			<Item Name="_Move(R) Cmd Params Cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Move(R) Cmd Params Cluster--typedef.ctl"/>
 			<Item Name="_Read-Write File Params cluster--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Read-Write File Params cluster--typedef.ctl"/>
+			<Item Name="_Temperature All Arrays--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Temperature All Arrays--typedef.ctl"/>
 			<Item Name="_Temperature Threshold Arrays--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Temperature Threshold Arrays--typedef.ctl"/>
 			<Item Name="Message Cluster.ctl" Type="VI" URL="../Tool Typedefs/Message Cluster.ctl"/>
 		</Item>
@@ -131,11 +133,11 @@
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
 			</Item>
-			<Item Name="_Temperature All Arrays--typedef.ctl" Type="VI" URL="../Tool Typedefs/_Temperature All Arrays--typedef.ctl"/>
 			<Item Name="Boolean to Text.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Boolean to Text.vi"/>
 			<Item Name="EventBuffer.lvclass" Type="LVClass" URL="../../Event Logger Library/Event Buffer/EventBuffer.lvclass"/>
 			<Item Name="EventLog.lvclass" Type="LVClass" URL="../../Event Logger Library/Event Log/EventLog.lvclass"/>
 			<Item Name="Format Boolean Descriptor.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Format Boolean Descriptor.vi"/>
+			<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Libraries/Collect Data Mgr/Init Max Size Data Array.vi"/>
 			<Item Name="Log Tool Module Config Rtn State.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Log Tool Module Config Rtn State.vi"/>
 			<Item Name="Log Tool Module CONNECT State.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Log Tool Module CONNECT State.vi"/>
 			<Item Name="Log Tool Module Generic.vi" Type="VI" URL="../../Event Logger Library/Logging Support/Log Tool Module Generic.vi"/>
