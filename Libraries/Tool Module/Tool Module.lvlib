@@ -210,6 +210,7 @@
 			<Item Name="_Status Bits Typedef.ctl" Type="VI" URL="../_Status Bits Typedef.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
+			<Item Name="Cycle Count XML Default Text.vi" Type="VI" URL="../Support/Cycle Count XML Default Text.vi"/>
 			<Item Name="READ Config from XML file.vi" Type="VI" URL="../Support/READ Config from XML file.vi"/>
 			<Item Name="wait (ms) with error clusters.vi" Type="VI" URL="../Support/wait (ms) with error clusters.vi"/>
 			<Item Name="WRITE Config to XML file.vi" Type="VI" URL="../Support/WRITE Config to XML file.vi"/>
