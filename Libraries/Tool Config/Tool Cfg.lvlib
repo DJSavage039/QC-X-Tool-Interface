@@ -101,6 +101,12 @@
 		<Item Name="_Verification Blk Cluster--typedef.ctl" Type="VI" URL="../_Verification Blk Cluster--typedef.ctl"/>
 	</Item>
 	<Item Name="Utility" Type="Folder">
+		<Item Name="OpCfg Setup GXML File Support" Type="Folder">
+			<Item Name="_Tool OpCfg GXML Format Cluster--typedef.ctl" Type="VI" URL="../_Tool OpCfg GXML Format Cluster--typedef.ctl"/>
+			<Item Name="Read OpCfg from GXML File.vi" Type="VI" URL="../Read OpCfg from GXML File.vi"/>
+			<Item Name="Tool OpCfg Parse from GXML String.vi" Type="VI" URL="../Tool OpCfg Parse from GXML String.vi"/>
+			<Item Name="Write OpCfg to GXML File.vi" Type="VI" URL="../Write OpCfg to GXML File.vi"/>
+		</Item>
 		<Item Name="Encoder to Inch.vi" Type="VI" URL="../Encoder to Inch.vi"/>
 		<Item Name="Inch to Encoder.vi" Type="VI" URL="../Inch to Encoder.vi"/>
 		<Item Name="Read FPGA Setup Params from File.vi" Type="VI" URL="../Read FPGA Setup Params from File.vi"/>
