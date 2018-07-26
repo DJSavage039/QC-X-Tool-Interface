@@ -17,7 +17,6 @@
 		<Item Name="Set Firmware Version.vi" Type="VI" URL="../Set Firmware Version.vi"/>
 		<Item Name="Set Op Cfg.vi" Type="VI" URL="../Set Op Cfg.vi"/>
 		<Item Name="Set Product Name.vi" Type="VI" URL="../Set Product Name.vi"/>
-		<Item Name="Set Tool SN.vi" Type="VI" URL="../Set Tool SN.vi"/>
 	</Item>
 	<Item Name="Tool Cfg Block" Type="Folder">
 		<Item Name="Motor Block" Type="Folder">
@@ -93,6 +92,7 @@
 		<Item Name="Get Tool Config Cluster.vi" Type="VI" URL="../Get Tool Config Cluster.vi"/>
 		<Item Name="Get Tool Type and SN.vi" Type="VI" URL="../Get Tool Type and SN.vi"/>
 		<Item Name="Set Tool Config Cluster.vi" Type="VI" URL="../Set Tool Config Cluster.vi"/>
+		<Item Name="Set Tool SN.vi" Type="VI" URL="../Set Tool SN.vi"/>
 		<Item Name="Set Tool Type.vi" Type="VI" URL="../Set Tool Type.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
