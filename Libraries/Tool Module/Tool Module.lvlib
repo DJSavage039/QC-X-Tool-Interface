@@ -124,6 +124,8 @@
 		<Item Name="Module Not Synced--error.vi" Type="VI" URL="../Module Not Synced--error.vi"/>
 		<Item Name="Module Not Stopped--error.vi" Type="VI" URL="../Module Not Stopped--error.vi"/>
 		<Item Name="Get Module Main VI Information.vi" Type="VI" URL="../Get Module Main VI Information.vi"/>
+		<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
+		<Item Name="Hide VI Panel.vi" Type="VI" URL="../Hide VI Panel.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
