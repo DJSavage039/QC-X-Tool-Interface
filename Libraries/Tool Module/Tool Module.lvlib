@@ -44,6 +44,9 @@
 				<Item Name="Set Device Temp Thresholds Argument--cluster.ctl" Type="VI" URL="../Set Device Temp Thresholds Argument--cluster.ctl"/>
 				<Item Name="Get Cycle Count Argument--cluster.ctl" Type="VI" URL="../Get Cycle Count Argument--cluster.ctl"/>
 				<Item Name="Get Cycle Count (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Cycle Count (Reply Payload)--cluster.ctl"/>
+				<Item Name="Return FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data Argument--cluster.ctl"/>
+				<Item Name="Return FPGA Setup Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data (Reply Payload)--cluster.ctl"/>
+				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -84,6 +87,8 @@
 			<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
 			<Item Name="Set Device Temp Thresholds.vi" Type="VI" URL="../Set Device Temp Thresholds.vi"/>
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
+			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
+			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
