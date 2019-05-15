@@ -47,6 +47,7 @@
 				<Item Name="Return FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data Argument--cluster.ctl"/>
 				<Item Name="Return FPGA Setup Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data (Reply Payload)--cluster.ctl"/>
 				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
+				<Item Name="Setup Timer 1 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 1 Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -131,6 +132,10 @@
 		<Item Name="Get Module Main VI Information.vi" Type="VI" URL="../Get Module Main VI Information.vi"/>
 		<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 		<Item Name="Hide VI Panel.vi" Type="VI" URL="../Hide VI Panel.vi"/>
+	</Item>
+	<Item Name="Private Requests" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Setup Timer 1.vi" Type="VI" URL="../Setup Timer 1.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
