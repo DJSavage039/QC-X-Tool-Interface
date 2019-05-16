@@ -25,7 +25,7 @@
 				<Item Name="Get Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get Inspection Limits Argument--cluster.ctl"/>
 				<Item Name="Get Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Inspection Limits (Reply Payload)--cluster.ctl"/>
 				<Item Name="Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Set Inspection Limits Argument--cluster.ctl"/>
-				<Item Name="Update Status Argument--cluster.ctl" Type="VI" URL="../Update Status Argument--cluster.ctl"/>
+				<Item Name="Update Motion Status Argument--cluster.ctl" Type="VI" URL="../Update Motion Status Argument--cluster.ctl"/>
 				<Item Name="Start Data Monitor Argument--cluster.ctl" Type="VI" URL="../Start Data Monitor Argument--cluster.ctl"/>
 				<Item Name="Get FPGA Setup Params Argument--cluster.ctl" Type="VI" URL="../Get FPGA Setup Params Argument--cluster.ctl"/>
 				<Item Name="Get FPGA Setup Params (Reply Payload)--cluster.ctl" Type="VI" URL="../Get FPGA Setup Params (Reply Payload)--cluster.ctl"/>
@@ -74,7 +74,7 @@
 			<Item Name="Get All Inspect Data.vi" Type="VI" URL="../Get All Inspect Data.vi"/>
 			<Item Name="Get Inspection Limits.vi" Type="VI" URL="../Get Inspection Limits.vi"/>
 			<Item Name="Set Inspection Limits.vi" Type="VI" URL="../Set Inspection Limits.vi"/>
-			<Item Name="Update Status.vi" Type="VI" URL="../Update Status.vi"/>
+			<Item Name="Update Motion Status.vi" Type="VI" URL="../Update Motion Status.vi"/>
 			<Item Name="Get FPGA Setup Params.vi" Type="VI" URL="../Get FPGA Setup Params.vi"/>
 			<Item Name="Set FPGA Setup Params.vi" Type="VI" URL="../Set FPGA Setup Params.vi"/>
 			<Item Name="Set Tool Config.vi" Type="VI" URL="../Set Tool Config.vi"/>
