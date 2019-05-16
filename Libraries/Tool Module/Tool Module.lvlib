@@ -199,6 +199,17 @@
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 		</Item>
+		<Item Name="Logging" Type="Folder">
+			<Item Name="Log Connect Event Helper.vi" Type="VI" URL="../Support/Log Connect Event Helper.vi"/>
+			<Item Name="Log General Event Helper.vi" Type="VI" URL="../Support/Log General Event Helper.vi"/>
+			<Item Name="Log GoTo State Helper.vi" Type="VI" URL="../Support/Log GoTo State Helper.vi"/>
+			<Item Name="Log Inspect State Helper.vi" Type="VI" URL="../Support/Log Inspect State Helper.vi"/>
+			<Item Name="Log Inspecting State Helper.vi" Type="VI" URL="../Support/Log Inspecting State Helper.vi"/>
+			<Item Name="Log Monitor State Helper.vi" Type="VI" URL="../Support/Log Monitor State Helper.vi"/>
+			<Item Name="Log Start Inspect State.vi" Type="VI" URL="../Support/Log Start Inspect State.vi"/>
+			<Item Name="Log Tool Config Rtn Event Helper.vi" Type="VI" URL="../Support/Log Tool Config Rtn Event Helper.vi"/>
+			<Item Name="Log Wait Inspect Range State.vi" Type="VI" URL="../Support/Log Wait Inspect Range State.vi"/>
+		</Item>
 		<Item Name="Motion IO" Type="Folder">
 			<Item Name="Check if Fault or Limit.vi" Type="VI" URL="../Check if Fault or Limit.vi"/>
 			<Item Name="Check if Position in Range.vi" Type="VI" URL="../Check if Position in Range.vi"/>
