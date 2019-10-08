@@ -176,7 +176,6 @@
 		<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
 		<Item Name="API_Stop Inspecting.vi" Type="VI" URL="../API_Stop Inspecting.vi"/>
 		<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
-		<Item Name="API_Wait on Module Start.vi" Type="VI" URL="../API_Wait on Module Start.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -250,7 +249,6 @@
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
-		<Item Name="Start Module with Retry.vi" Type="VI" URL="../Support/Start Module with Retry.vi"/>
 		<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
