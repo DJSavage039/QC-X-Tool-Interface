@@ -48,6 +48,8 @@
 				<Item Name="Return FPGA Setup Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data (Reply Payload)--cluster.ctl"/>
 				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
 				<Item Name="Setup Timer 1 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 1 Argument--cluster.ctl"/>
+				<Item Name="Setup Timer 2 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 2 Argument--cluster.ctl"/>
+				<Item Name="Motion Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Motion Status Reader Cmd Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -136,6 +138,8 @@
 	<Item Name="Private Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Setup Timer 1.vi" Type="VI" URL="../Setup Timer 1.vi"/>
+		<Item Name="Setup Timer 2.vi" Type="VI" URL="../Setup Timer 2.vi"/>
+		<Item Name="Motion Status Reader Cmd.vi" Type="VI" URL="../Motion Status Reader Cmd.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -183,6 +187,7 @@
 		<Item Name="Async Timer" Type="Folder">
 			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
 			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
+			<Item Name="Timer Helper Loop.vi" Type="VI" URL="../Support/Timer Helper Loop.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
 			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
