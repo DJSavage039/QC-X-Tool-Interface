@@ -49,7 +49,10 @@
 				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
 				<Item Name="Setup Timer 1 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 1 Argument--cluster.ctl"/>
 				<Item Name="Setup Timer 2 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 2 Argument--cluster.ctl"/>
-				<Item Name="Motion Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Motion Status Reader Cmd Argument--cluster.ctl"/>
+				<Item Name="Tool Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Tool Status Reader Cmd Argument--cluster.ctl"/>
+				<Item Name="Update Tool Status Argument--cluster.ctl" Type="VI" URL="../Update Tool Status Argument--cluster.ctl"/>
+				<Item Name="Update Tool Status (Reply Payload)--cluster.ctl" Type="VI" URL="../Update Tool Status (Reply Payload)--cluster.ctl"/>
+				<Item Name="Stop Helper Loop Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loop Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -139,7 +142,9 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Setup Timer 1.vi" Type="VI" URL="../Setup Timer 1.vi"/>
 		<Item Name="Setup Timer 2.vi" Type="VI" URL="../Setup Timer 2.vi"/>
-		<Item Name="Motion Status Reader Cmd.vi" Type="VI" URL="../Motion Status Reader Cmd.vi"/>
+		<Item Name="Update Tool Status.vi" Type="VI" URL="../Update Tool Status.vi"/>
+		<Item Name="Tool Status Reader Cmd.vi" Type="VI" URL="../Tool Status Reader Cmd.vi"/>
+		<Item Name="Stop Helper Loop.vi" Type="VI" URL="../Stop Helper Loop.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -256,7 +261,9 @@
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 		<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
+		<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
+		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
