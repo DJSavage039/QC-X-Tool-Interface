@@ -16,7 +16,6 @@
 				<Item Name="Stop Argument--cluster.ctl" Type="VI" URL="../Stop Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
-				<Item Name="Test Trig 2 Argument--cluster.ctl" Type="VI" URL="../Test Trig 2 Argument--cluster.ctl"/>
 				<Item Name="GOTO Argument--cluster.ctl" Type="VI" URL="../GOTO Argument--cluster.ctl"/>
 				<Item Name="Start Inspect Argument--cluster.ctl" Type="VI" URL="../Start Inspect Argument--cluster.ctl"/>
 				<Item Name="CONNECT Argument--cluster.ctl" Type="VI" URL="../CONNECT Argument--cluster.ctl"/>
@@ -47,8 +46,7 @@
 				<Item Name="Return FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data Argument--cluster.ctl"/>
 				<Item Name="Return FPGA Setup Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Return FPGA Setup Data (Reply Payload)--cluster.ctl"/>
 				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
-				<Item Name="Setup Timer 1 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 1 Argument--cluster.ctl"/>
-				<Item Name="Setup Timer 2 Argument--cluster.ctl" Type="VI" URL="../Setup Timer 2 Argument--cluster.ctl"/>
+				<Item Name="Setup Timer Argument--cluster.ctl" Type="VI" URL="../Setup Timer Argument--cluster.ctl"/>
 				<Item Name="Tool Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Tool Status Reader Cmd Argument--cluster.ctl"/>
 				<Item Name="Update Tool Status Argument--cluster.ctl" Type="VI" URL="../Update Tool Status Argument--cluster.ctl"/>
 				<Item Name="Update Tool Status (Reply Payload)--cluster.ctl" Type="VI" URL="../Update Tool Status (Reply Payload)--cluster.ctl"/>
@@ -73,7 +71,6 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Start Inspect.vi" Type="VI" URL="../Start Inspect.vi"/>
 			<Item Name="Start Data Monitor.vi" Type="VI" URL="../Start Data Monitor.vi"/>
-			<Item Name="Test Trig 2.vi" Type="VI" URL="../Test Trig 2.vi"/>
 			<Item Name="CONNECT.vi" Type="VI" URL="../CONNECT.vi"/>
 			<Item Name="GOTO.vi" Type="VI" URL="../GOTO.vi"/>
 			<Item Name="Get All Inspect Data.vi" Type="VI" URL="../Get All Inspect Data.vi"/>
@@ -140,11 +137,10 @@
 	</Item>
 	<Item Name="Private Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Setup Timer 1.vi" Type="VI" URL="../Setup Timer 1.vi"/>
-		<Item Name="Setup Timer 2.vi" Type="VI" URL="../Setup Timer 2.vi"/>
 		<Item Name="Update Tool Status.vi" Type="VI" URL="../Update Tool Status.vi"/>
 		<Item Name="Tool Status Reader Cmd.vi" Type="VI" URL="../Tool Status Reader Cmd.vi"/>
 		<Item Name="Stop Helper Loop.vi" Type="VI" URL="../Stop Helper Loop.vi"/>
+		<Item Name="Setup Timer.vi" Type="VI" URL="../Setup Timer.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
