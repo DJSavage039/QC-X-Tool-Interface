@@ -203,8 +203,8 @@
 			<Item Name="Error_5112.vi" Type="VI" URL="../Support/Error_5112.vi"/>
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
+			<Item Name="Message to RT.vi" Type="VI" URL="../Support/Message to RT.vi"/>
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
-			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 		</Item>
 		<Item Name="Logging" Type="Folder">
 			<Item Name="Log Connect Event Helper.vi" Type="VI" URL="../Support/Log Connect Event Helper.vi"/>
@@ -222,6 +222,9 @@
 			<Item Name="Check if Position in Range.vi" Type="VI" URL="../Check if Position in Range.vi"/>
 			<Item Name="Check if Reached Start Pos.vi" Type="VI" URL="../Check if Reached Start Pos.vi"/>
 			<Item Name="Check SW Limits.vi" Type="VI" URL="../Check SW Limits.vi"/>
+		</Item>
+		<Item Name="Obsolete" Type="Folder">
+			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
