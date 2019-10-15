@@ -48,9 +48,7 @@
 				<Item Name="Update FPGA Setup Data Argument--cluster.ctl" Type="VI" URL="../Update FPGA Setup Data Argument--cluster.ctl"/>
 				<Item Name="Setup Timer Argument--cluster.ctl" Type="VI" URL="../Setup Timer Argument--cluster.ctl"/>
 				<Item Name="Tool Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Tool Status Reader Cmd Argument--cluster.ctl"/>
-				<Item Name="Update Tool Status Argument--cluster.ctl" Type="VI" URL="../Update Tool Status Argument--cluster.ctl"/>
-				<Item Name="Update Tool Status (Reply Payload)--cluster.ctl" Type="VI" URL="../Update Tool Status (Reply Payload)--cluster.ctl"/>
-				<Item Name="Stop Helper Loop Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loop Argument--cluster.ctl"/>
+				<Item Name="Stop Helper Loops Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loops Argument--cluster.ctl"/>
 				<Item Name="Timer Complete Argument--cluster.ctl" Type="VI" URL="../Timer Complete Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
@@ -93,7 +91,7 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
-			<Item Name="Timer Complete.vi" Type="VI" URL="../Timer Complete.vi"/>
+			<Item Name="Stop Helper Loops.vi" Type="VI" URL="../Stop Helper Loops.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -139,10 +137,9 @@
 	</Item>
 	<Item Name="Private Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Update Tool Status.vi" Type="VI" URL="../Update Tool Status.vi"/>
 		<Item Name="Tool Status Reader Cmd.vi" Type="VI" URL="../Tool Status Reader Cmd.vi"/>
-		<Item Name="Stop Helper Loop.vi" Type="VI" URL="../Stop Helper Loop.vi"/>
 		<Item Name="Setup Timer.vi" Type="VI" URL="../Setup Timer.vi"/>
+		<Item Name="Timer Complete.vi" Type="VI" URL="../Timer Complete.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -221,6 +218,7 @@
 		</Item>
 		<Item Name="Obsolete" Type="Folder">
 			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
+			<Item Name="Motion Status Reader.vi" Type="VI" URL="../Motion Status Reader.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
 			<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
@@ -259,7 +257,6 @@
 		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
-		<Item Name="Motion Status Reader.vi" Type="VI" URL="../Motion Status Reader.vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
