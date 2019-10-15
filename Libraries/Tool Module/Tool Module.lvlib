@@ -51,6 +51,7 @@
 				<Item Name="Update Tool Status Argument--cluster.ctl" Type="VI" URL="../Update Tool Status Argument--cluster.ctl"/>
 				<Item Name="Update Tool Status (Reply Payload)--cluster.ctl" Type="VI" URL="../Update Tool Status (Reply Payload)--cluster.ctl"/>
 				<Item Name="Stop Helper Loop Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loop Argument--cluster.ctl"/>
+				<Item Name="Timer Complete Argument--cluster.ctl" Type="VI" URL="../Timer Complete Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -92,6 +93,7 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
+			<Item Name="Timer Complete.vi" Type="VI" URL="../Timer Complete.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -236,6 +238,7 @@
 			<Item Name="_Motion Status Reader SM enum--typedef.ctl" Type="VI" URL="../_Motion Status Reader SM enum--typedef.ctl"/>
 			<Item Name="_Sample Data Rtn Cluster--typedef.ctl" Type="VI" URL="../Support/_Sample Data Rtn Cluster--typedef.ctl"/>
 			<Item Name="_Status Bits Typedef.ctl" Type="VI" URL="../_Status Bits Typedef.ctl"/>
+			<Item Name="_Tool Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_Tool Status Update Cluster--typedef.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Cycle Count XML Default Text.vi" Type="VI" URL="../Support/Cycle Count XML Default Text.vi"/>
