@@ -188,12 +188,8 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Async Timer" Type="Folder">
-			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
-			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
+			<Item Name="Setup Delay for Next State.vi" Type="VI" URL="../Support/Setup Delay for Next State.vi"/>
 			<Item Name="Timer Helper Loop.vi" Type="VI" URL="../Support/Timer Helper Loop.vi"/>
-			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
-			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
-			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
 		</Item>
 		<Item Name="Error VIs" Type="Folder">
 			<Item Name="Check Max Samples 5114.vi" Type="VI" URL="../Support/Check Max Samples 5114.vi"/>
@@ -224,7 +220,12 @@
 			<Item Name="Check SW Limits.vi" Type="VI" URL="../Check SW Limits.vi"/>
 		</Item>
 		<Item Name="Obsolete" Type="Folder">
+			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
+			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
+			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
+			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
+			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
