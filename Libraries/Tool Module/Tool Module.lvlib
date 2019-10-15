@@ -223,6 +223,7 @@
 			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
+			<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
 			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
@@ -262,7 +263,6 @@
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
-		<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
 		<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
