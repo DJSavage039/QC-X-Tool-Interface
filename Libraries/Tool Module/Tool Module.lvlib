@@ -21,17 +21,11 @@
 				<Item Name="CONNECT Argument--cluster.ctl" Type="VI" URL="../CONNECT Argument--cluster.ctl"/>
 				<Item Name="Get All Inspect Data Argument--cluster.ctl" Type="VI" URL="../Get All Inspect Data Argument--cluster.ctl"/>
 				<Item Name="Get All Inspect Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Get All Inspect Data (Reply Payload)--cluster.ctl"/>
-				<Item Name="Get Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get Inspection Limits Argument--cluster.ctl"/>
-				<Item Name="Get Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Inspection Limits (Reply Payload)--cluster.ctl"/>
-				<Item Name="Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Set Inspection Limits Argument--cluster.ctl"/>
-				<Item Name="Update Motion Status Argument--cluster.ctl" Type="VI" URL="../Update Motion Status Argument--cluster.ctl"/>
 				<Item Name="Start Data Monitor Argument--cluster.ctl" Type="VI" URL="../Start Data Monitor Argument--cluster.ctl"/>
 				<Item Name="Get FPGA Setup Params Argument--cluster.ctl" Type="VI" URL="../Get FPGA Setup Params Argument--cluster.ctl"/>
 				<Item Name="Get FPGA Setup Params (Reply Payload)--cluster.ctl" Type="VI" URL="../Get FPGA Setup Params (Reply Payload)--cluster.ctl"/>
 				<Item Name="Set FPGA Setup Params Argument--cluster.ctl" Type="VI" URL="../Set FPGA Setup Params Argument--cluster.ctl"/>
-				<Item Name="Set Tool Config Argument--cluster.ctl" Type="VI" URL="../Set Tool Config Argument--cluster.ctl"/>
-				<Item Name="Get Tool Config Argument--cluster.ctl" Type="VI" URL="../Get Tool Config Argument--cluster.ctl"/>
-				<Item Name="Get Tool Config (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Tool Config (Reply Payload)--cluster.ctl"/>
+				<Item Name="Commit Tool Config Argument--cluster.ctl" Type="VI" URL="../Commit Tool Config Argument--cluster.ctl"/>
 				<Item Name="Set Integration Count Argument--cluster.ctl" Type="VI" URL="../Set Integration Count Argument--cluster.ctl"/>
 				<Item Name="Set Laser Params Argument--cluster.ctl" Type="VI" URL="../Set Laser Params Argument--cluster.ctl"/>
 				<Item Name="Get Mtrl Ctrl Reg Argument--cluster.ctl" Type="VI" URL="../Get Mtrl Ctrl Reg Argument--cluster.ctl"/>
@@ -50,6 +44,9 @@
 				<Item Name="Tool Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Tool Status Reader Cmd Argument--cluster.ctl"/>
 				<Item Name="Stop Helper Loops Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loops Argument--cluster.ctl"/>
 				<Item Name="Timer Complete Argument--cluster.ctl" Type="VI" URL="../Timer Complete Argument--cluster.ctl"/>
+				<Item Name="Enable Receive Stream Argument--cluster.ctl" Type="VI" URL="../Enable Receive Stream Argument--cluster.ctl"/>
+				<Item Name="Get-Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits Argument--cluster.ctl"/>
+				<Item Name="Get-Set Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -72,14 +69,11 @@
 			<Item Name="Start Data Monitor.vi" Type="VI" URL="../Start Data Monitor.vi"/>
 			<Item Name="CONNECT.vi" Type="VI" URL="../CONNECT.vi"/>
 			<Item Name="GOTO.vi" Type="VI" URL="../GOTO.vi"/>
+			<Item Name="Get-Set Inspection Limits.vi" Type="VI" URL="../Get-Set Inspection Limits.vi"/>
 			<Item Name="Get All Inspect Data.vi" Type="VI" URL="../Get All Inspect Data.vi"/>
-			<Item Name="Get Inspection Limits.vi" Type="VI" URL="../Get Inspection Limits.vi"/>
-			<Item Name="Set Inspection Limits.vi" Type="VI" URL="../Set Inspection Limits.vi"/>
-			<Item Name="Update Motion Status.vi" Type="VI" URL="../Update Motion Status.vi"/>
 			<Item Name="Get FPGA Setup Params.vi" Type="VI" URL="../Get FPGA Setup Params.vi"/>
 			<Item Name="Set FPGA Setup Params.vi" Type="VI" URL="../Set FPGA Setup Params.vi"/>
-			<Item Name="Set Tool Config.vi" Type="VI" URL="../Set Tool Config.vi"/>
-			<Item Name="Get Tool Config.vi" Type="VI" URL="../Get Tool Config.vi"/>
+			<Item Name="Commit Tool Config.vi" Type="VI" URL="../Commit Tool Config.vi"/>
 			<Item Name="Set Integration Count.vi" Type="VI" URL="../Set Integration Count.vi"/>
 			<Item Name="Set Laser Params.vi" Type="VI" URL="../Set Laser Params.vi"/>
 			<Item Name="Get Mtrl Ctrl Reg.vi" Type="VI" URL="../Get Mtrl Ctrl Reg.vi"/>
@@ -91,7 +85,6 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
-			<Item Name="Stop Helper Loops.vi" Type="VI" URL="../Stop Helper Loops.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -140,6 +133,8 @@
 		<Item Name="Tool Status Reader Cmd.vi" Type="VI" URL="../Tool Status Reader Cmd.vi"/>
 		<Item Name="Setup Timer.vi" Type="VI" URL="../Setup Timer.vi"/>
 		<Item Name="Timer Complete.vi" Type="VI" URL="../Timer Complete.vi"/>
+		<Item Name="Stop Helper Loops.vi" Type="VI" URL="../Stop Helper Loops.vi"/>
+		<Item Name="Enable Receive Stream.vi" Type="VI" URL="../Enable Receive Stream.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -170,20 +165,17 @@
 				<Item Name="_STATUS Typedef--cluster.ctl" Type="VI" URL="../Support/_STATUS Typedef--cluster.ctl"/>
 			</Item>
 		</Item>
-		<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
 		<Item Name="API_Get All Inspect Data.vi" Type="VI" URL="../API_Get All Inspect Data.vi"/>
 		<Item Name="API_Get Sample Data.vi" Type="VI" URL="../API_Get Sample Data.vi"/>
 		<Item Name="API_Goto Cleaning Position.vi" Type="VI" URL="../API_Goto Cleaning Position.vi"/>
 		<Item Name="API_GOTO.vi" Type="VI" URL="../API_GOTO.vi"/>
 		<Item Name="API_Init Home.vi" Type="VI" URL="../API_Init Home.vi"/>
 		<Item Name="API_Start Inspecting.vi" Type="VI" URL="../API_Start Inspecting.vi"/>
-		<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
 		<Item Name="API_Stop Inspecting.vi" Type="VI" URL="../API_Stop Inspecting.vi"/>
-		<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Property Name="NI.SortType" Type="Int">0</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Async Timer" Type="Folder">
 			<Item Name="Setup Delay for Next State.vi" Type="VI" URL="../Support/Setup Delay for Next State.vi"/>
 			<Item Name="Timer Helper Loop.vi" Type="VI" URL="../Support/Timer Helper Loop.vi"/>
@@ -197,7 +189,6 @@
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
 			<Item Name="Message to RT.vi" Type="VI" URL="../Support/Message to RT.vi"/>
-			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
 		</Item>
 		<Item Name="Logging" Type="Folder">
 			<Item Name="Log Connect Event Helper.vi" Type="VI" URL="../Support/Log Connect Event Helper.vi"/>
@@ -218,13 +209,16 @@
 		</Item>
 		<Item Name="Obsolete" Type="Folder">
 			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
-			<Item Name="Motion Status Reader.vi" Type="VI" URL="../Motion Status Reader.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
 			<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
 			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
+			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
+			<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
+			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
+			<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
@@ -258,8 +252,8 @@
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
-		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
+		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
 		<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
