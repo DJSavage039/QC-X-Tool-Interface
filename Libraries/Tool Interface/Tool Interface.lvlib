@@ -33,7 +33,6 @@
 			<Item Name="Read Message from Tool.vi" Type="VI" URL="../Read Message from Tool.vi"/>
 			<Item Name="Write Message to Tool.vi" Type="VI" URL="../Write Message to Tool.vi"/>
 		</Item>
-		<Item Name="_Host - HS Data Stream State Enum Typedef.ctl" Type="VI" URL="../_Host - HS Data Stream State Enum Typedef.ctl"/>
 		<Item Name="Close Tool Connection.vi" Type="VI" URL="../Close Tool Connection.vi"/>
 		<Item Name="ConnectOnly.vi" Type="VI" URL="../ConnectOnly.vi"/>
 		<Item Name="Initiate Connection.vi" Type="VI" URL="../Initiate Connection.vi"/>
