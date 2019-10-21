@@ -43,7 +43,6 @@
 				<Item Name="Setup Timer Argument--cluster.ctl" Type="VI" URL="../Setup Timer Argument--cluster.ctl"/>
 				<Item Name="Tool Status Reader Cmd Argument--cluster.ctl" Type="VI" URL="../Tool Status Reader Cmd Argument--cluster.ctl"/>
 				<Item Name="Stop Helper Loops Argument--cluster.ctl" Type="VI" URL="../Stop Helper Loops Argument--cluster.ctl"/>
-				<Item Name="Timer Complete Argument--cluster.ctl" Type="VI" URL="../Timer Complete Argument--cluster.ctl"/>
 				<Item Name="Enable Receive Stream Argument--cluster.ctl" Type="VI" URL="../Enable Receive Stream Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits (Reply Payload)--cluster.ctl"/>
@@ -57,6 +56,7 @@
 				<Item Name="Connected Argument--cluster.ctl" Type="VI" URL="../Connected Argument--cluster.ctl"/>
 				<Item Name="Read from File Rtn Argument--cluster.ctl" Type="VI" URL="../Read from File Rtn Argument--cluster.ctl"/>
 				<Item Name="Device Temperature Argument--cluster.ctl" Type="VI" URL="../Device Temperature Argument--cluster.ctl"/>
+				<Item Name="Time Expired Argument--cluster.ctl" Type="VI" URL="../Time Expired Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -106,6 +106,7 @@
 		<Item Name="Connected.vi" Type="VI" URL="../Connected.vi"/>
 		<Item Name="Read from File Rtn.vi" Type="VI" URL="../Read from File Rtn.vi"/>
 		<Item Name="Device Temperature.vi" Type="VI" URL="../Device Temperature.vi"/>
+		<Item Name="Time Expired.vi" Type="VI" URL="../Time Expired.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -132,7 +133,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Tool Status Reader Cmd.vi" Type="VI" URL="../Tool Status Reader Cmd.vi"/>
 		<Item Name="Setup Timer.vi" Type="VI" URL="../Setup Timer.vi"/>
-		<Item Name="Timer Complete.vi" Type="VI" URL="../Timer Complete.vi"/>
 		<Item Name="Stop Helper Loops.vi" Type="VI" URL="../Stop Helper Loops.vi"/>
 		<Item Name="Enable Receive Stream.vi" Type="VI" URL="../Enable Receive Stream.vi"/>
 	</Item>
