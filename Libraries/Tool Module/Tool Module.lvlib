@@ -200,6 +200,7 @@
 			<Item Name="Log Start Inspect State.vi" Type="VI" URL="../Support/Log Start Inspect State.vi"/>
 			<Item Name="Log Tool Config Rtn Event Helper.vi" Type="VI" URL="../Support/Log Tool Config Rtn Event Helper.vi"/>
 			<Item Name="Log Wait Inspect Range State.vi" Type="VI" URL="../Support/Log Wait Inspect Range State.vi"/>
+			<Item Name="Log Wait Motion Helper.vi" Type="VI" URL="../Support/Log Wait Motion Helper.vi"/>
 		</Item>
 		<Item Name="Motion IO" Type="Folder">
 			<Item Name="Check if Fault or Limit.vi" Type="VI" URL="../Check if Fault or Limit.vi"/>
@@ -219,6 +220,8 @@
 			<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
 			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
 			<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
+			<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
+			<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
@@ -244,6 +247,14 @@
 			<Item Name="wait (ms) with error clusters.vi" Type="VI" URL="../Support/wait (ms) with error clusters.vi"/>
 			<Item Name="WRITE Config to XML file.vi" Type="VI" URL="../Support/WRITE Config to XML file.vi"/>
 		</Item>
+		<Item Name="Inspect Helper Loop" Type="Folder">
+			<Item Name="_Inspect SM Enum--typedef.ctl" Type="VI" URL="../Support/_Inspect SM Enum--typedef.ctl"/>
+			<Item Name="_Inspect Helper Loop Data Cluster--typedef.ctl" Type="VI" URL="../Support/_Inspect Helper Loop Data Cluster--typedef.ctl"/>
+			<Item Name="_Inspect Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_Inspect Status Update Cluster--typedef.ctl"/>
+			<Item Name="INSPECT_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/INSPECT_Wait for Start Pos Helper.vi"/>
+			<Item Name="INSPECT_Start Collect Helper.vi" Type="VI" URL="../Support/INSPECT_Start Collect Helper.vi"/>
+			<Item Name="INSPECT_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/INSPECT_Wait for Inspect Range Helper.vi"/>
+		</Item>
 		<Item Name="Check for Start Position.vi" Type="VI" URL="../Support/Check for Start Position.vi"/>
 		<Item Name="Check Homing Status V2.vi" Type="VI" URL="../Support/Check Homing Status V2.vi"/>
 		<Item Name="Check Inspecting Status.vi" Type="VI" URL="../Support/Check Inspecting Status.vi"/>
@@ -253,10 +264,8 @@
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
-		<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
-		<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
 		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
 	</Item>
