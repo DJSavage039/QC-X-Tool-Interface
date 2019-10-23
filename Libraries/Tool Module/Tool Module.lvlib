@@ -189,6 +189,8 @@
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
 			<Item Name="Message to RT.vi" Type="VI" URL="../Support/Message to RT.vi"/>
+			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Support/Raw Data Stream Receiver.vi"/>
+			<Item Name="Obtain Loop Notifiers.vi" Type="VI" URL="../Support/Obtain Loop Notifiers.vi"/>
 		</Item>
 		<Item Name="Logging" Type="Folder">
 			<Item Name="Log Connect Event Helper.vi" Type="VI" URL="../Support/Log Connect Event Helper.vi"/>
@@ -248,12 +250,17 @@
 			<Item Name="WRITE Config to XML file.vi" Type="VI" URL="../Support/WRITE Config to XML file.vi"/>
 		</Item>
 		<Item Name="Inspect Helper Loop" Type="Folder">
-			<Item Name="_Inspect SM Enum--typedef.ctl" Type="VI" URL="../Support/_Inspect SM Enum--typedef.ctl"/>
-			<Item Name="_Inspect Helper Loop Data Cluster--typedef.ctl" Type="VI" URL="../Support/_Inspect Helper Loop Data Cluster--typedef.ctl"/>
-			<Item Name="_Inspect Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_Inspect Status Update Cluster--typedef.ctl"/>
-			<Item Name="INSPECT_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/INSPECT_Wait for Start Pos Helper.vi"/>
-			<Item Name="INSPECT_Start Collect Helper.vi" Type="VI" URL="../Support/INSPECT_Start Collect Helper.vi"/>
-			<Item Name="INSPECT_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/INSPECT_Wait for Inspect Range Helper.vi"/>
+			<Property Name="NI.SortType" Type="Int">0</Property>
+			<Item Name="_IHL Data Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Data Cluster--typedef.ctl"/>
+			<Item Name="_IHL SM Enum--typedef.ctl" Type="VI" URL="../Support/_IHL SM Enum--typedef.ctl"/>
+			<Item Name="_IHL Status Notifier Data Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Notifier Data Cluster--typedef.ctl"/>
+			<Item Name="_IHL Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Update Cluster--typedef.ctl"/>
+			<Item Name="IHL_Inspecting Helper.vi" Type="VI" URL="../Support/IHL_Inspecting Helper.vi"/>
+			<Item Name="IHL_Start Collect Helper.vi" Type="VI" URL="../Support/IHL_Start Collect Helper.vi"/>
+			<Item Name="IHL_Stop Collecting Helper.vi" Type="VI" URL="../Support/IHL_Stop Collecting Helper.vi"/>
+			<Item Name="IHL_Update Loop Data.vi" Type="VI" URL="../Support/IHL_Update Loop Data.vi"/>
+			<Item Name="IHL_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/IHL_Wait for Inspect Range Helper.vi"/>
+			<Item Name="IHL_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/IHL_Wait for Start Pos Helper.vi"/>
 		</Item>
 		<Item Name="Check for Start Position.vi" Type="VI" URL="../Support/Check for Start Position.vi"/>
 		<Item Name="Check Homing Status V2.vi" Type="VI" URL="../Support/Check Homing Status V2.vi"/>
