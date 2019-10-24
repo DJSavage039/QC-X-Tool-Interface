@@ -188,9 +188,11 @@
 			<Item Name="Error_5112.vi" Type="VI" URL="../Support/Error_5112.vi"/>
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
-			<Item Name="Message to RT.vi" Type="VI" URL="../Support/Message to RT.vi"/>
 			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Support/Raw Data Stream Receiver.vi"/>
 			<Item Name="Obtain Loop Notifiers.vi" Type="VI" URL="../Support/Obtain Loop Notifiers.vi"/>
+			<Item Name="_HS Data Stream SM enum--typedef.ctl" Type="VI" URL="../Support/_HS Data Stream SM enum--typedef.ctl"/>
+			<Item Name="_HS Data Stream Params Cluster--typedef.ctl" Type="VI" URL="../Support/_HS Data Stream Params Cluster--typedef.ctl"/>
+			<Item Name="_Loop Ctrl Notifiers Cluster--typedef.ctl" Type="VI" URL="../Support/_Loop Ctrl Notifiers Cluster--typedef.ctl"/>
 		</Item>
 		<Item Name="Logging" Type="Folder">
 			<Item Name="Log Connect Event Helper.vi" Type="VI" URL="../Support/Log Connect Event Helper.vi"/>
@@ -199,7 +201,6 @@
 			<Item Name="Log Inspect State Helper.vi" Type="VI" URL="../Support/Log Inspect State Helper.vi"/>
 			<Item Name="Log Inspecting State Helper.vi" Type="VI" URL="../Support/Log Inspecting State Helper.vi"/>
 			<Item Name="Log Monitor State Helper.vi" Type="VI" URL="../Support/Log Monitor State Helper.vi"/>
-			<Item Name="Log Start Inspect State.vi" Type="VI" URL="../Support/Log Start Inspect State.vi"/>
 			<Item Name="Log Tool Config Rtn Event Helper.vi" Type="VI" URL="../Support/Log Tool Config Rtn Event Helper.vi"/>
 			<Item Name="Log Wait Inspect Range State.vi" Type="VI" URL="../Support/Log Wait Inspect Range State.vi"/>
 			<Item Name="Log Wait Motion Helper.vi" Type="VI" URL="../Support/Log Wait Motion Helper.vi"/>
@@ -224,13 +225,15 @@
 			<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
 			<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 			<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
+			<Item Name="Tool Connect.vi" Type="VI" URL="../Support/Tool Connect.vi"/>
+			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
+			<Item Name="Log Start Inspect State.vi" Type="VI" URL="../Support/Log Start Inspect State.vi"/>
+			<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
 			<Item Name="Configure Probe.vi" Type="VI" URL="../Support/Configure Probe.vi"/>
 			<Item Name="Init Config Data.vi" Type="VI" URL="../Support/Init Config Data.vi"/>
-			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
-			<Item Name="Tool Connect.vi" Type="VI" URL="../Support/Tool Connect.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="_Cycle Count File Cluster--typedef.ctl" Type="VI" URL="../Support/_Cycle Count File Cluster--typedef.ctl"/>
@@ -255,9 +258,11 @@
 			<Item Name="_IHL SM Enum--typedef.ctl" Type="VI" URL="../Support/_IHL SM Enum--typedef.ctl"/>
 			<Item Name="_IHL Status Notifier Data Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Notifier Data Cluster--typedef.ctl"/>
 			<Item Name="_IHL Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Update Cluster--typedef.ctl"/>
+			<Item Name="IHL_Inspect-Start Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Start Helper.vi"/>
+			<Item Name="IHL_Inspect-Stop Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Stop Helper.vi"/>
 			<Item Name="IHL_Inspecting Helper.vi" Type="VI" URL="../Support/IHL_Inspecting Helper.vi"/>
-			<Item Name="IHL_Start Collect Helper.vi" Type="VI" URL="../Support/IHL_Start Collect Helper.vi"/>
-			<Item Name="IHL_Stop Collecting Helper.vi" Type="VI" URL="../Support/IHL_Stop Collecting Helper.vi"/>
+			<Item Name="IHL_Sample Data Notifier.vi" Type="VI" URL="../Support/IHL_Sample Data Notifier.vi"/>
+			<Item Name="IHL_Stop Collecting.vi" Type="VI" URL="../Support/IHL_Stop Collecting.vi"/>
 			<Item Name="IHL_Update Loop Data.vi" Type="VI" URL="../Support/IHL_Update Loop Data.vi"/>
 			<Item Name="IHL_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/IHL_Wait for Inspect Range Helper.vi"/>
 			<Item Name="IHL_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/IHL_Wait for Start Pos Helper.vi"/>
@@ -269,7 +274,7 @@
 		<Item Name="Compute Sample Length 2.vi" Type="VI" URL="../Support/Compute Sample Length 2.vi"/>
 		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
-		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
+		<Item Name="Init Max Size Data Array(2).vi" Type="VI" URL="../Support/Init Max Size Data Array(2).vi"/>
 		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>

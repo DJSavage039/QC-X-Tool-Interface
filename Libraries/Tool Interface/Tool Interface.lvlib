@@ -41,6 +41,7 @@
 	<Item Name="Data" Type="Folder">
 		<Item Name="Low Level" Type="Folder">
 			<Item Name="Insert Data to DVR.vi" Type="VI" URL="../Insert Data to DVR.vi"/>
+			<Item Name="Parse Raw Data Stream.vi" Type="VI" URL="../Parse Raw Data Stream.vi"/>
 			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Raw Data Stream Receiver.vi"/>
 		</Item>
 		<Item Name="_HS Data Stream Params Cluster--typedef.ctl" Type="VI" URL="../_HS Data Stream Params Cluster--typedef.ctl"/>
@@ -48,6 +49,7 @@
 		<Item Name="_Loop Ctrl Notifiers Cluster--typedef.ctl" Type="VI" URL="../_Loop Ctrl Notifiers Cluster--typedef.ctl"/>
 		<Item Name="Collect Data Start.vi" Type="VI" URL="../Collect Data Start.vi"/>
 		<Item Name="Collect Data Stop.vi" Type="VI" URL="../Collect Data Stop.vi"/>
+		<Item Name="Message to RT.vi" Type="VI" URL="../Message to RT.vi"/>
 		<Item Name="Obtain Loop Notifiers.vi" Type="VI" URL="../Obtain Loop Notifiers.vi"/>
 	</Item>
 	<Item Name="Utility" Type="Folder">
