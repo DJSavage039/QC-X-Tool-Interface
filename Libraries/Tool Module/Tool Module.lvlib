@@ -280,6 +280,7 @@
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
 		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
+		<Item Name="Retrieve Current Sample Data.vi" Type="VI" URL="../Support/Retrieve Current Sample Data.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -287,4 +288,5 @@
 	<Item Name="ToolModGLOB.vi" Type="VI" URL="../Support/ToolModGLOB.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Error_5113.vi" Type="VI" URL="../Support/Error_5113.vi"/>
 </Library>
