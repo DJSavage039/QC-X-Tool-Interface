@@ -166,6 +166,7 @@
 			</Item>
 		</Item>
 		<Item Name="API_Get All Inspect Data.vi" Type="VI" URL="../API_Get All Inspect Data.vi"/>
+		<Item Name="API_Get Sample Data(NEW).vi" Type="VI" URL="../API_Get Sample Data(NEW).vi"/>
 		<Item Name="API_Get Sample Data.vi" Type="VI" URL="../API_Get Sample Data.vi"/>
 		<Item Name="API_Goto Cleaning Position.vi" Type="VI" URL="../API_Goto Cleaning Position.vi"/>
 		<Item Name="API_GOTO.vi" Type="VI" URL="../API_GOTO.vi"/>
@@ -186,6 +187,7 @@
 			<Item Name="Error_5102.vi" Type="VI" URL="../Support/Error_5102.vi"/>
 			<Item Name="Error_5103.vi" Type="VI" URL="../Support/Error_5103.vi"/>
 			<Item Name="Error_5112.vi" Type="VI" URL="../Support/Error_5112.vi"/>
+			<Item Name="Error_5113.vi" Type="VI" URL="../Support/Error_5113.vi"/>
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
 			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Support/Raw Data Stream Receiver.vi"/>
@@ -288,5 +290,4 @@
 	<Item Name="ToolModGLOB.vi" Type="VI" URL="../Support/ToolModGLOB.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Error_5113.vi" Type="VI" URL="../Support/Error_5113.vi"/>
 </Library>
