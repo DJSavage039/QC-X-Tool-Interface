@@ -46,6 +46,8 @@
 				<Item Name="Enable Receive Stream Argument--cluster.ctl" Type="VI" URL="../Enable Receive Stream Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits (Reply Payload)--cluster.ctl"/>
+				<Item Name="Start Inspect 2 Argument--cluster.ctl" Type="VI" URL="../Start Inspect 2 Argument--cluster.ctl"/>
+				<Item Name="Start Inspect 2 (Reply Payload)--cluster.ctl" Type="VI" URL="../Start Inspect 2 (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -85,6 +87,7 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
+			<Item Name="Start Inspect 2.vi" Type="VI" URL="../Start Inspect 2.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -191,7 +194,7 @@
 		</Item>
 		<Item Name="Link to RT" Type="Folder">
 			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Support/Raw Data Stream Receiver.vi"/>
-			<Item Name="Obtain Loop Notifiers.vi" Type="VI" URL="../Support/Obtain Loop Notifiers.vi"/>
+			<Item Name="Obtain Raw HS Stream Ctrl Notifiers.vi" Type="VI" URL="../Support/Obtain Raw HS Stream Ctrl Notifiers.vi"/>
 			<Item Name="_HS Data Stream SM enum--typedef.ctl" Type="VI" URL="../Support/_HS Data Stream SM enum--typedef.ctl"/>
 			<Item Name="_HS Data Stream Params Cluster--typedef.ctl" Type="VI" URL="../Support/_HS Data Stream Params Cluster--typedef.ctl"/>
 			<Item Name="_Loop Ctrl Notifiers Cluster--typedef.ctl" Type="VI" URL="../Support/_Loop Ctrl Notifiers Cluster--typedef.ctl"/>
@@ -260,14 +263,16 @@
 			<Item Name="_IHL SM Enum--typedef.ctl" Type="VI" URL="../Support/_IHL SM Enum--typedef.ctl"/>
 			<Item Name="_IHL Status Notifier Data Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Notifier Data Cluster--typedef.ctl"/>
 			<Item Name="_IHL Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Update Cluster--typedef.ctl"/>
+			<Item Name="IHL_HS Stream Sample Data Notifier.vi" Type="VI" URL="../Support/IHL_HS Stream Sample Data Notifier.vi"/>
 			<Item Name="IHL_Inspect-Start Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Start Helper.vi"/>
 			<Item Name="IHL_Inspect-Stop Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Stop Helper.vi"/>
 			<Item Name="IHL_Inspecting Helper.vi" Type="VI" URL="../Support/IHL_Inspecting Helper.vi"/>
-			<Item Name="IHL_Sample Data Notifier.vi" Type="VI" URL="../Support/IHL_Sample Data Notifier.vi"/>
 			<Item Name="IHL_Stop Collecting.vi" Type="VI" URL="../Support/IHL_Stop Collecting.vi"/>
 			<Item Name="IHL_Update Loop Data.vi" Type="VI" URL="../Support/IHL_Update Loop Data.vi"/>
 			<Item Name="IHL_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/IHL_Wait for Inspect Range Helper.vi"/>
 			<Item Name="IHL_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/IHL_Wait for Start Pos Helper.vi"/>
+			<Item Name="Obtain Host Sample Data Notifier.vi" Type="VI" URL="../Support/Obtain Host Sample Data Notifier.vi"/>
+			<Item Name="Update Host Sample Data.vi" Type="VI" URL="../Support/Update Host Sample Data.vi"/>
 		</Item>
 		<Item Name="Check for Start Position.vi" Type="VI" URL="../Support/Check for Start Position.vi"/>
 		<Item Name="Check Homing Status V2.vi" Type="VI" URL="../Support/Check Homing Status V2.vi"/>
@@ -277,7 +282,6 @@
 		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array(2).vi" Type="VI" URL="../Support/Init Max Size Data Array(2).vi"/>
-		<Item Name="Obtain Data Notifier.vi" Type="VI" URL="../Support/Obtain Data Notifier.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Stop Collecting and Return Data.vi" Type="VI" URL="../Stop Collecting and Return Data.vi"/>
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
