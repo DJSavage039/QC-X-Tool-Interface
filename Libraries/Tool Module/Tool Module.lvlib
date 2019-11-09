@@ -270,6 +270,7 @@
 			<Item Name="IHL_Stop Collecting.vi" Type="VI" URL="../Support/IHL_Stop Collecting.vi"/>
 			<Item Name="IHL_Update Loop Data.vi" Type="VI" URL="../Support/IHL_Update Loop Data.vi"/>
 			<Item Name="IHL_Wait for Inspect Range Helper.vi" Type="VI" URL="../Support/IHL_Wait for Inspect Range Helper.vi"/>
+			<Item Name="IHL_Wait for Motion Helper.vi" Type="VI" URL="../Support/IHL_Wait for Motion Helper.vi"/>
 			<Item Name="IHL_Wait for Start Pos Helper.vi" Type="VI" URL="../Support/IHL_Wait for Start Pos Helper.vi"/>
 			<Item Name="Obtain Host Sample Data Notifier.vi" Type="VI" URL="../Support/Obtain Host Sample Data Notifier.vi"/>
 			<Item Name="Update Host Sample Data.vi" Type="VI" URL="../Support/Update Host Sample Data.vi"/>
