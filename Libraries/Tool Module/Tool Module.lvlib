@@ -17,7 +17,6 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="GOTO Argument--cluster.ctl" Type="VI" URL="../GOTO Argument--cluster.ctl"/>
-				<Item Name="Start Inspect Argument--cluster.ctl" Type="VI" URL="../Start Inspect Argument--cluster.ctl"/>
 				<Item Name="CONNECT Argument--cluster.ctl" Type="VI" URL="../CONNECT Argument--cluster.ctl"/>
 				<Item Name="Get All Inspect Data Argument--cluster.ctl" Type="VI" URL="../Get All Inspect Data Argument--cluster.ctl"/>
 				<Item Name="Get All Inspect Data (Reply Payload)--cluster.ctl" Type="VI" URL="../Get All Inspect Data (Reply Payload)--cluster.ctl"/>
@@ -67,7 +66,6 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
-			<Item Name="Start Inspect.vi" Type="VI" URL="../Start Inspect.vi"/>
 			<Item Name="Start Data Monitor.vi" Type="VI" URL="../Start Data Monitor.vi"/>
 			<Item Name="CONNECT.vi" Type="VI" URL="../CONNECT.vi"/>
 			<Item Name="GOTO.vi" Type="VI" URL="../GOTO.vi"/>
@@ -175,7 +173,6 @@
 		<Item Name="API_GOTO.vi" Type="VI" URL="../API_GOTO.vi"/>
 		<Item Name="API_Init Home.vi" Type="VI" URL="../API_Init Home.vi"/>
 		<Item Name="API_Start Inspecting.vi" Type="VI" URL="../API_Start Inspecting.vi"/>
-		<Item Name="API_Stop Inspecting.vi" Type="VI" URL="../API_Stop Inspecting.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
@@ -234,6 +231,7 @@
 			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
 			<Item Name="Log Start Inspect State.vi" Type="VI" URL="../Support/Log Start Inspect State.vi"/>
 			<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
+			<Item Name="API_Stop Inspecting.vi" Type="VI" URL="../API_Stop Inspecting.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
