@@ -45,8 +45,8 @@
 				<Item Name="Enable Receive Stream Argument--cluster.ctl" Type="VI" URL="../Enable Receive Stream Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits Argument--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits Argument--cluster.ctl"/>
 				<Item Name="Get-Set Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits (Reply Payload)--cluster.ctl"/>
-				<Item Name="Start Inspect 2 Argument--cluster.ctl" Type="VI" URL="../Start Inspect 2 Argument--cluster.ctl"/>
-				<Item Name="Start Inspect 2 (Reply Payload)--cluster.ctl" Type="VI" URL="../Start Inspect 2 (Reply Payload)--cluster.ctl"/>
+				<Item Name="INSPECT Argument--cluster.ctl" Type="VI" URL="../INSPECT Argument--cluster.ctl"/>
+				<Item Name="INSPECT (Reply Payload)--cluster.ctl" Type="VI" URL="../INSPECT (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -85,7 +85,7 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
-			<Item Name="Start Inspect 2.vi" Type="VI" URL="../Start Inspect 2.vi"/>
+			<Item Name="INSPECT.vi" Type="VI" URL="../INSPECT.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
