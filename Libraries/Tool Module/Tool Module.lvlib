@@ -68,6 +68,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Start Data Monitor.vi" Type="VI" URL="../Start Data Monitor.vi"/>
 			<Item Name="CONNECT.vi" Type="VI" URL="../CONNECT.vi"/>
+			<Item Name="INSPECT.vi" Type="VI" URL="../INSPECT.vi"/>
 			<Item Name="GOTO.vi" Type="VI" URL="../GOTO.vi"/>
 			<Item Name="Get-Set Inspection Limits.vi" Type="VI" URL="../Get-Set Inspection Limits.vi"/>
 			<Item Name="Get All Inspect Data.vi" Type="VI" URL="../Get All Inspect Data.vi"/>
@@ -85,7 +86,6 @@
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
-			<Item Name="INSPECT.vi" Type="VI" URL="../INSPECT.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
