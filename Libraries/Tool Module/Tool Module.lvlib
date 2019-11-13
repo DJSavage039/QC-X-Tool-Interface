@@ -240,7 +240,7 @@
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="_Cycle Count File Cluster--typedef.ctl" Type="VI" URL="../Support/_Cycle Count File Cluster--typedef.ctl"/>
-			<Item Name="_Data Notifiers Cluster--typedef.ctl" Type="VI" URL="../Support/_Data Notifiers Cluster--typedef.ctl"/>
+			<Item Name="_Sample Data Notifier--typedef.ctl" Type="VI" URL="../Support/_Sample Data Notifier--typedef.ctl"/>
 			<Item Name="_GoTo Cmd Typedef--enum.ctl" Type="VI" URL="../Support/_GoTo Cmd Typedef--enum.ctl"/>
 			<Item Name="_Inspection Limits cluster--typedef.ctl" Type="VI" URL="../Support/_Inspection Limits cluster--typedef.ctl"/>
 			<Item Name="_Motion Status Reader SM enum--typedef.ctl" Type="VI" URL="../_Motion Status Reader SM enum--typedef.ctl"/>
