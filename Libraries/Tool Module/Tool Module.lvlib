@@ -294,4 +294,5 @@
 	<Item Name="ToolModGLOB.vi" Type="VI" URL="../Support/ToolModGLOB.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Log Connected Helper.vi" Type="VI" URL="../Support/Log Connected Helper.vi"/>
 </Library>
