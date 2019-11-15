@@ -30,7 +30,6 @@
 				<Item Name="Get Mtrl Ctrl Reg Argument--cluster.ctl" Type="VI" URL="../Get Mtrl Ctrl Reg Argument--cluster.ctl"/>
 				<Item Name="Get Mtrl Ctrl Reg (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Mtrl Ctrl Reg (Reply Payload)--cluster.ctl"/>
 				<Item Name="Commit Ctrl Reg Argument--cluster.ctl" Type="VI" URL="../Commit Ctrl Reg Argument--cluster.ctl"/>
-				<Item Name="Set Event Logger Argument--cluster.ctl" Type="VI" URL="../Set Event Logger Argument--cluster.ctl"/>
 				<Item Name="Write to File Argument--cluster.ctl" Type="VI" URL="../Write to File Argument--cluster.ctl"/>
 				<Item Name="Read from File Argument--cluster.ctl" Type="VI" URL="../Read from File Argument--cluster.ctl"/>
 				<Item Name="Set Device Temp Thresholds Argument--cluster.ctl" Type="VI" URL="../Set Device Temp Thresholds Argument--cluster.ctl"/>
@@ -47,6 +46,7 @@
 				<Item Name="Get-Set Inspection Limits (Reply Payload)--cluster.ctl" Type="VI" URL="../Get-Set Inspection Limits (Reply Payload)--cluster.ctl"/>
 				<Item Name="INSPECT Argument--cluster.ctl" Type="VI" URL="../INSPECT Argument--cluster.ctl"/>
 				<Item Name="INSPECT (Reply Payload)--cluster.ctl" Type="VI" URL="../INSPECT (Reply Payload)--cluster.ctl"/>
+				<Item Name="Set EventLog Ref Argument--cluster.ctl" Type="VI" URL="../Set EventLog Ref Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -79,13 +79,13 @@
 			<Item Name="Set Laser Params.vi" Type="VI" URL="../Set Laser Params.vi"/>
 			<Item Name="Get Mtrl Ctrl Reg.vi" Type="VI" URL="../Get Mtrl Ctrl Reg.vi"/>
 			<Item Name="Commit Ctrl Reg.vi" Type="VI" URL="../Commit Ctrl Reg.vi"/>
-			<Item Name="Set Event Logger.vi" Type="VI" URL="../Set Event Logger.vi"/>
 			<Item Name="Write to File.vi" Type="VI" URL="../Write to File.vi"/>
 			<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
 			<Item Name="Set Device Temp Thresholds.vi" Type="VI" URL="../Set Device Temp Thresholds.vi"/>
 			<Item Name="Get Cycle Count.vi" Type="VI" URL="../Get Cycle Count.vi"/>
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
+			<Item Name="Set EventLog Ref.vi" Type="VI" URL="../Set EventLog Ref.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -179,6 +179,7 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Async Timer" Type="Folder">
 			<Item Name="Setup Delay for Next State.vi" Type="VI" URL="../Support/Setup Delay for Next State.vi"/>
+			<Item Name="Setup Timer 1.vi" Type="VI" URL="../Support/Setup Timer 1.vi"/>
 			<Item Name="Timer Helper Loop.vi" Type="VI" URL="../Support/Timer Helper Loop.vi"/>
 		</Item>
 		<Item Name="Error VIs" Type="Folder">
