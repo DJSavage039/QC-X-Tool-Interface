@@ -244,7 +244,7 @@
 			<Item Name="_Cycle Count File Cluster--typedef.ctl" Type="VI" URL="../Support/_Cycle Count File Cluster--typedef.ctl"/>
 			<Item Name="_GoTo Cmd Typedef--enum.ctl" Type="VI" URL="../Support/_GoTo Cmd Typedef--enum.ctl"/>
 			<Item Name="_Inspection Limits cluster--typedef.ctl" Type="VI" URL="../Support/_Inspection Limits cluster--typedef.ctl"/>
-			<Item Name="_Motion Status Reader SM enum--typedef.ctl" Type="VI" URL="../_Motion Status Reader SM enum--typedef.ctl"/>
+			<Item Name="_Motion Status Reader SM enum--typedef.ctl" Type="VI" URL="../Support/_Motion Status Reader SM enum--typedef.ctl"/>
 			<Item Name="_Sample Data Rtn Cluster--typedef.ctl" Type="VI" URL="../Support/_Sample Data Rtn Cluster--typedef.ctl"/>
 			<Item Name="_Status Bits Typedef.ctl" Type="VI" URL="../_Status Bits Typedef.ctl"/>
 			<Item Name="_Tool Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_Tool Status Update Cluster--typedef.ctl"/>
@@ -287,6 +287,7 @@
 		<Item Name="Update Device Temperature.vi" Type="VI" URL="../Support/Update Device Temperature.vi"/>
 		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
 		<Item Name="Retrieve Current Sample Data.vi" Type="VI" URL="../Support/Retrieve Current Sample Data.vi"/>
+		<Item Name="Start Monitor Helper.vi" Type="VI" URL="../Support/Start Monitor Helper.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
