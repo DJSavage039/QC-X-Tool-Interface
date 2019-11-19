@@ -262,6 +262,7 @@
 			<Item Name="_IHL SM Enum--typedef.ctl" Type="VI" URL="../Support/_IHL SM Enum--typedef.ctl"/>
 			<Item Name="_IHL Status Notifier Data Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Notifier Data Cluster--typedef.ctl"/>
 			<Item Name="_IHL Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_IHL Status Update Cluster--typedef.ctl"/>
+			<Item Name="API_Sample Data Notifier Constant.vi" Type="VI" URL="../API_Sample Data Notifier Constant.vi"/>
 			<Item Name="IHL_HS Stream Sample Data Notifier.vi" Type="VI" URL="../Support/IHL_HS Stream Sample Data Notifier.vi"/>
 			<Item Name="IHL_Inspect-Start Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Start Helper.vi"/>
 			<Item Name="IHL_Inspect-Stop Helper.vi" Type="VI" URL="../Support/IHL_Inspect-Stop Helper.vi"/>
