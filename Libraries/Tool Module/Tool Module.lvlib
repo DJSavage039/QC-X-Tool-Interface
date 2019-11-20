@@ -285,6 +285,7 @@
 		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
 		<Item Name="Retrieve Current Sample Data.vi" Type="VI" URL="../Support/Retrieve Current Sample Data.vi"/>
 		<Item Name="Start Monitor Helper.vi" Type="VI" URL="../Support/Start Monitor Helper.vi"/>
+		<Item Name="Flush Msg Queue.vi" Type="VI" URL="../Support/Flush Msg Queue.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
