@@ -273,7 +273,7 @@
 			<Item Name="Update Host Sample Data.vi" Type="VI" URL="../Support/Update Host Sample Data.vi"/>
 		</Item>
 		<Item Name="Check for Start Position.vi" Type="VI" URL="../Support/Check for Start Position.vi"/>
-		<Item Name="Check Homing Status V2.vi" Type="VI" URL="../Support/Check Homing Status V2.vi"/>
+		<Item Name="Check Homing Status.vi" Type="VI" URL="../Support/Check Homing Status.vi"/>
 		<Item Name="Check Inspecting Status.vi" Type="VI" URL="../Support/Check Inspecting Status.vi"/>
 		<Item Name="Check Start Button.vi" Type="VI" URL="../Support/Check Start Button.vi"/>
 		<Item Name="Compute Sample Length 2.vi" Type="VI" URL="../Support/Compute Sample Length 2.vi"/>
