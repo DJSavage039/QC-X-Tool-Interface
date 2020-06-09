@@ -47,6 +47,8 @@
 				<Item Name="INSPECT Argument--cluster.ctl" Type="VI" URL="../INSPECT Argument--cluster.ctl"/>
 				<Item Name="INSPECT (Reply Payload)--cluster.ctl" Type="VI" URL="../INSPECT (Reply Payload)--cluster.ctl"/>
 				<Item Name="Set EventLog Ref Argument--cluster.ctl" Type="VI" URL="../Set EventLog Ref Argument--cluster.ctl"/>
+				<Item Name="Read Tool File Argument--cluster.ctl" Type="VI" URL="../Read Tool File Argument--cluster.ctl"/>
+				<Item Name="Read Tool File (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Tool File (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -86,6 +88,7 @@
 			<Item Name="Return FPGA Setup Data.vi" Type="VI" URL="../Return FPGA Setup Data.vi"/>
 			<Item Name="Update FPGA Setup Data.vi" Type="VI" URL="../Update FPGA Setup Data.vi"/>
 			<Item Name="Set EventLog Ref.vi" Type="VI" URL="../Set EventLog Ref.vi"/>
+			<Item Name="Read Tool File.vi" Type="VI" URL="../Read Tool File.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
