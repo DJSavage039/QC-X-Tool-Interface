@@ -207,7 +207,6 @@
 			<Item Name="Log General Event Helper.vi" Type="VI" URL="../Support/Log General Event Helper.vi"/>
 			<Item Name="Log GoTo State Helper.vi" Type="VI" URL="../Support/Log GoTo State Helper.vi"/>
 			<Item Name="Log Inspect State Helper.vi" Type="VI" URL="../Support/Log Inspect State Helper.vi"/>
-			<Item Name="Log Inspecting State Helper.vi" Type="VI" URL="../Support/Log Inspecting State Helper.vi"/>
 			<Item Name="Log Monitor State Helper.vi" Type="VI" URL="../Support/Log Monitor State Helper.vi"/>
 			<Item Name="Log Tool Config Rtn Event Helper.vi" Type="VI" URL="../Support/Log Tool Config Rtn Event Helper.vi"/>
 			<Item Name="Log Wait Inspect Range State.vi" Type="VI" URL="../Support/Log Wait Inspect Range State.vi"/>
@@ -225,7 +224,6 @@
 			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
 			<Item Name="Start Status Reader.vi" Type="VI" URL="../Support/Start Status Reader.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
-			<Item Name="Timer Start.vi" Type="VI" URL="../Support/Timer Start.vi"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
 			<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
