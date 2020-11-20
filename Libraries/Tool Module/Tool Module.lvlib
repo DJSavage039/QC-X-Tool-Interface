@@ -233,7 +233,6 @@
 			<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
 			<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 			<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
-			<Item Name="Tool Connect.vi" Type="VI" URL="../Support/Tool Connect.vi"/>
 			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
@@ -280,8 +279,6 @@
 		<Item Name="Check Homing Status.vi" Type="VI" URL="../Support/Check Homing Status.vi"/>
 		<Item Name="Check Inspecting Status.vi" Type="VI" URL="../Support/Check Inspecting Status.vi"/>
 		<Item Name="Check Start Button.vi" Type="VI" URL="../Support/Check Start Button.vi"/>
-		<Item Name="Compute Sample Length 2.vi" Type="VI" URL="../Support/Compute Sample Length 2.vi"/>
-		<Item Name="Compute Sample Length.vi" Type="VI" URL="../Support/Compute Sample Length.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array(2).vi" Type="VI" URL="../Support/Init Max Size Data Array(2).vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
