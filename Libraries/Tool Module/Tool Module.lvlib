@@ -171,7 +171,6 @@
 			</Item>
 		</Item>
 		<Item Name="API_Get All Inspect Data.vi" Type="VI" URL="../API_Get All Inspect Data.vi"/>
-		<Item Name="API_Get Sample Data(NEW).vi" Type="VI" URL="../API_Get Sample Data(NEW).vi"/>
 		<Item Name="API_Get Sample Data.vi" Type="VI" URL="../API_Get Sample Data.vi"/>
 		<Item Name="API_Goto Cleaning Position.vi" Type="VI" URL="../API_Goto Cleaning Position.vi"/>
 		<Item Name="API_GOTO.vi" Type="VI" URL="../API_GOTO.vi"/>
@@ -228,7 +227,6 @@
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
 			<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
 			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
-			<Item Name="API_Stop Tool Module.vi" Type="VI" URL="../API_Stop Tool Module.vi"/>
 			<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 			<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
