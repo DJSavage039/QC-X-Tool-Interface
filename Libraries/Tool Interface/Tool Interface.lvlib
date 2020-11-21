@@ -53,7 +53,6 @@
 		<Item Name="Obtain Loop Notifiers.vi" Type="VI" URL="../Obtain Loop Notifiers.vi"/>
 	</Item>
 	<Item Name="Utility" Type="Folder">
-		<Item Name="Read from File.vi" Type="VI" URL="../Read from File.vi"/>
 		<Item Name="Wait(ms).vi" Type="VI" URL="../Wait(ms).vi"/>
 	</Item>
 	<Item Name="GLOB - Configuration Options.vi" Type="VI" URL="../GLOB - Configuration Options.vi"/>

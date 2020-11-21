@@ -208,7 +208,6 @@
 			<Item Name="Log Inspect State Helper.vi" Type="VI" URL="../Support/Log Inspect State Helper.vi"/>
 			<Item Name="Log Monitor State Helper.vi" Type="VI" URL="../Support/Log Monitor State Helper.vi"/>
 			<Item Name="Log Tool Config Rtn Event Helper.vi" Type="VI" URL="../Support/Log Tool Config Rtn Event Helper.vi"/>
-			<Item Name="Log Wait Inspect Range State.vi" Type="VI" URL="../Support/Log Wait Inspect Range State.vi"/>
 			<Item Name="Log Wait Motion Helper.vi" Type="VI" URL="../Support/Log Wait Motion Helper.vi"/>
 		</Item>
 		<Item Name="Motion IO" Type="Folder">
@@ -227,7 +226,6 @@
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
 			<Item Name="API_Connect.vi" Type="VI" URL="../API_Connect.vi"/>
 			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
-			<Item Name="Reverse Data Set.vi" Type="VI" URL="../Support/Reverse Data Set.vi"/>
 			<Item Name="Update Device Temperature(old).vi" Type="VI" URL="../Support/Update Device Temperature(old).vi"/>
 			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
 		</Item>
@@ -250,7 +248,6 @@
 			<Item Name="Cycle Count XML Default Text.vi" Type="VI" URL="../Support/Cycle Count XML Default Text.vi"/>
 			<Item Name="READ Config from XML file.vi" Type="VI" URL="../Support/READ Config from XML file.vi"/>
 			<Item Name="wait (ms) with error clusters.vi" Type="VI" URL="../Support/wait (ms) with error clusters.vi"/>
-			<Item Name="WRITE Config to XML file.vi" Type="VI" URL="../Support/WRITE Config to XML file.vi"/>
 		</Item>
 		<Item Name="Inspect Helper Loop" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">0</Property>
@@ -273,7 +270,6 @@
 		</Item>
 		<Item Name="Check for Start Position.vi" Type="VI" URL="../Support/Check for Start Position.vi"/>
 		<Item Name="Check Homing Status.vi" Type="VI" URL="../Support/Check Homing Status.vi"/>
-		<Item Name="Check Inspecting Status.vi" Type="VI" URL="../Support/Check Inspecting Status.vi"/>
 		<Item Name="Check Start Button.vi" Type="VI" URL="../Support/Check Start Button.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
 		<Item Name="Init Max Size Data Array(2).vi" Type="VI" URL="../Support/Init Max Size Data Array(2).vi"/>
