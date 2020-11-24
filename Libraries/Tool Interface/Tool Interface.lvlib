@@ -45,7 +45,6 @@
 			<Item Name="Raw Data Stream Receiver.vi" Type="VI" URL="../Raw Data Stream Receiver.vi"/>
 		</Item>
 		<Item Name="_HS Data Stream Params Cluster--typedef.ctl" Type="VI" URL="../_HS Data Stream Params Cluster--typedef.ctl"/>
-		<Item Name="_HS Data Stream SM enum--typedef.ctl" Type="VI" URL="../_HS Data Stream SM enum--typedef.ctl"/>
 		<Item Name="_Loop Ctrl Notifiers Cluster--typedef.ctl" Type="VI" URL="../_Loop Ctrl Notifiers Cluster--typedef.ctl"/>
 		<Item Name="Collect Data Start.vi" Type="VI" URL="../Collect Data Start.vi"/>
 		<Item Name="Collect Data Stop.vi" Type="VI" URL="../Collect Data Stop.vi"/>

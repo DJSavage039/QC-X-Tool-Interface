@@ -32,7 +32,6 @@
 		<Item Name="Read FPGA Setup Params from File.vi" Type="VI" URL="../Read FPGA Setup Params from File.vi"/>
 		<Item Name="Read Tool Cfg from File.vi" Type="VI" URL="../Read Tool Cfg from File.vi"/>
 		<Item Name="RT Get Root Path.vi" Type="VI" URL="../RT Get Root Path.vi"/>
-		<Item Name="RT Temperature Thold File Path.vi" Type="VI" URL="../RT Temperature Thold File Path.vi"/>
 		<Item Name="Write FPGA Setup Params to File.vi" Type="VI" URL="../Write FPGA Setup Params to File.vi"/>
 		<Item Name="Write Tool Cfg to File.vi" Type="VI" URL="../Write Tool Cfg to File.vi"/>
 	</Item>
