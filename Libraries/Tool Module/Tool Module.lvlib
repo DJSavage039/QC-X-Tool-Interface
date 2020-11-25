@@ -216,12 +216,11 @@
 			<Item Name="Check SW Limits.vi" Type="VI" URL="../Check SW Limits.vi"/>
 		</Item>
 		<Item Name="Obsolete" Type="Folder">
+			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
-			<Item Name="API_Start Tool Module.vi" Type="VI" URL="../API_Start Tool Module.vi"/>
-			<Item Name="Read Tool Type from Tool.vi" Type="VI" URL="../Support/Read Tool Type from Tool.vi"/>
 		</Item>
 		<Item Name="Probe Config" Type="Folder">
 			<Item Name="Check Tool Type.vi" Type="VI" URL="../Support/Check Tool Type.vi"/>
