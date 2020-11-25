@@ -216,9 +216,7 @@
 			<Item Name="Check SW Limits.vi" Type="VI" URL="../Check SW Limits.vi"/>
 		</Item>
 		<Item Name="Obsolete" Type="Folder">
-			<Item Name="Asynch Timer Loop.vi" Type="VI" URL="../Support/Asynch Timer Loop.vi"/>
 			<Item Name="Send Message to RT.vi" Type="VI" URL="../Support/Send Message to RT.vi"/>
-			<Item Name="Setup Timer Parameters.vi" Type="VI" URL="../Setup Timer Parameters.vi"/>
 			<Item Name="Timer Setup Params Typedef.ctl" Type="VI" URL="../Support/Timer Setup Params Typedef.ctl"/>
 			<Item Name="Timer State Return Typedef.ctl" Type="VI" URL="../Support/Timer State Return Typedef.ctl"/>
 			<Item Name="Read Stream from RT.vi" Type="VI" URL="../Read Stream from RT.vi"/>
