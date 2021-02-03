@@ -262,7 +262,7 @@
 		<Item Name="Check Homing Status.vi" Type="VI" URL="../Support/Check Homing Status.vi"/>
 		<Item Name="Check Start Button.vi" Type="VI" URL="../Support/Check Start Button.vi"/>
 		<Item Name="Compute ScanLimits.vi" Type="VI" URL="../Support/Compute ScanLimits.vi"/>
-		<Item Name="Init Max Size Data Array(2).vi" Type="VI" URL="../Support/Init Max Size Data Array(2).vi"/>
+		<Item Name="Init Max Size Data Array.vi" Type="VI" URL="../Support/Init Max Size Data Array.vi"/>
 		<Item Name="Reverse Data Set V2.vi" Type="VI" URL="../Support/Reverse Data Set V2.vi"/>
 		<Item Name="Update Tool Status Helper.vi" Type="VI" URL="../Support/Update Tool Status Helper.vi"/>
 		<Item Name="Retrieve Current Sample Data.vi" Type="VI" URL="../Support/Retrieve Current Sample Data.vi"/>
