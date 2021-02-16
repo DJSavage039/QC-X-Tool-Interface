@@ -11,13 +11,11 @@
 		<Item Name="Get Config Cluster Version.vi" Type="VI" URL="../Get Config Cluster Version.vi"/>
 		<Item Name="Get Firmware Version.vi" Type="VI" URL="../Get Firmware Version.vi"/>
 		<Item Name="Get Op Cfg.vi" Type="VI" URL="../Get Op Cfg.vi"/>
-		<Item Name="Get Operator.vi" Type="VI" URL="../Get Operator.vi"/>
 		<Item Name="Get Product Name.vi" Type="VI" URL="../Get Product Name.vi"/>
 		<Item Name="Get Tool Config Cluster Version.vi" Type="VI" URL="../Get Tool Config Cluster Version.vi"/>
 		<Item Name="Set Config Cluster Version.vi" Type="VI" URL="../Set Config Cluster Version.vi"/>
 		<Item Name="Set Firmware Version.vi" Type="VI" URL="../Set Firmware Version.vi"/>
 		<Item Name="Set Op Cfg.vi" Type="VI" URL="../Set Op Cfg.vi"/>
-		<Item Name="Set Operator.vi" Type="VI" URL="../Set Operator.vi"/>
 		<Item Name="Set Product Name.vi" Type="VI" URL="../Set Product Name.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
