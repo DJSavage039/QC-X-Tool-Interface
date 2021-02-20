@@ -28,8 +28,9 @@
 		<Item Name="Encoder to Inch.vi" Type="VI" URL="../Encoder to Inch.vi"/>
 		<Item Name="Inch to Encoder.vi" Type="VI" URL="../Inch to Encoder.vi"/>
 		<Item Name="Read FPGA Setup Params from File.vi" Type="VI" URL="../Read FPGA Setup Params from File.vi"/>
-		<Item Name="Read Tool Cfg from File.vi" Type="VI" URL="../Read Tool Cfg from File.vi"/>
+		<Item Name="Read Local Tool Cfg XML File.vi" Type="VI" URL="../Read Local Tool Cfg XML File.vi"/>
 		<Item Name="RT Get Root Path.vi" Type="VI" URL="../RT Get Root Path.vi"/>
+		<Item Name="Update Tool Cfg from Local XML File.vi" Type="VI" URL="../Update Tool Cfg from Local XML File.vi"/>
 		<Item Name="Write FPGA Setup Params to File.vi" Type="VI" URL="../Write FPGA Setup Params to File.vi"/>
 		<Item Name="Write Tool Cfg to File.vi" Type="VI" URL="../Write Tool Cfg to File.vi"/>
 	</Item>
