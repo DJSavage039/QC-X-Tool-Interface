@@ -232,7 +232,7 @@
 			<Item Name="_Sample Data Rtn Cluster--typedef.ctl" Type="VI" URL="../Support/_Sample Data Rtn Cluster--typedef.ctl"/>
 			<Item Name="_Status Bits Typedef.ctl" Type="VI" URL="../_Status Bits Typedef.ctl"/>
 			<Item Name="_Tool Status Update Cluster--typedef.ctl" Type="VI" URL="../Support/_Tool Status Update Cluster--typedef.ctl"/>
-			<Item Name="_Host - HS Data Stream State Enum Typedef.ctl" Type="VI" URL="../../Tool Interface/_Host - HS Data Stream State Enum Typedef.ctl"/>
+			<Item Name="_Host - HS Data Stream State Enum Typedef.ctl" Type="VI" URL="../Support/_Host - HS Data Stream State Enum Typedef.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Cycle Count XML Default Text.vi" Type="VI" URL="../Support/Cycle Count XML Default Text.vi"/>
